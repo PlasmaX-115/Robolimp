@@ -5,7 +5,7 @@ Autores:
     Maximiliano Benítez Ahumada  A01752791
 '''
 
-from RobotLimpieza import *
+from Robolimp import *
 from mesa.visualization.modules import CanvasGrid
 from mesa.visualization.ModularVisualization import ModularServer
 
